@@ -77,5 +77,4 @@ markdown
 
 - [x] Tarea completada
 - [ ] Tarea pendiente
-~~Texto obsoleto~~
-:rocket: ¡Listo para producción!
+
