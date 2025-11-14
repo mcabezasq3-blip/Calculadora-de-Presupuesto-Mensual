@@ -53,3 +53,29 @@ markdown
 ![Diagrama de arquitectura del sistema](https://optim.tildacdn.net/tild3234-3066-4234-b638-306537326132/-/resize/760x/-/format/webp/markdown.png.webp)
 
 > **Nota**: Asegúrate de tener Docker instalado antes de ejecutar `docker-compose up`.
+>
+> # Ventajas de Utilizar Markdown 
+
+| # | **Ventaja** | **Descripción** |
+|---|-------------|-----------------|
+| 1 | **Legibilidad en texto plano** | Se lee fácilmente sin renderizar. Ideal para `README.md`, issues y wikis. |
+| 2 | **Sintaxis simple y rápida** | Usa `#`, `*`, `-`, `>`, etc. No requiere HTML ni editores complejos. |
+| 3 | **Portabilidad** | Archivos `.md` funcionan en cualquier editor, sistema operativo o plataforma. |
+| 4 | **Control de versiones con Git** | Los cambios en documentación se versionan junto al código. |
+| 5 | **Renderizado nativo en GitHub** | GitHub muestra `.md` con formato profesional automáticamente. |
+| 6 | **GitHub Flavored Markdown (GFM)** | Soporta tablas, checklists, emojis, tachado y menciones. |
+| 7 | **Colaboración en tiempo real** | Vista previa en pull requests y comentarios. |
+| 8 | **Integración con herramientas** | Funciona con GitHub Pages, Jekyll, MkDocs, Docusaurus, Pandoc, etc. |
+| 9 | **Exportable a múltiples formatos** | HTML, PDF, Word, ePub con herramientas como Pandoc. |
+|10| **Estándar en open source** | Usado en npm, PyPI, GitLab, Bitbucket, Stack Overflow, etc. |
+|11| **Accesible y ligero** | No depende de JavaScript. Ideal para documentación técnica. |
+|12| **Mejora la mantenibilidad** | Fácil de actualizar, revisar y contribuir por cualquier desarrollador. |
+
+---
+
+> **Ejemplo de GFM en acción**:
+
+- [x] Tarea completada
+- [ ] Tarea pendiente
+~~Texto obsoleto~~
+:rocket: ¡Listo para producción!
