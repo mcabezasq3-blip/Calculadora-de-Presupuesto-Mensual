@@ -10,8 +10,8 @@ Los tipos de mantenimiento se clasifican comúnmente según la norma **ISO/IEC 1
 |                | rendimiento. Se realiza reactivamente ante reportes de usuarios.                            | por un cálculo erróneo.   |                   |
 |                |                                                                                             |                           |                   |
 | **Adaptativo** | Modifica el software para adaptarlo a cambios en el entorno (hardware, SO, regulaciones     | Ajustar compatibilidad con|        25%        |
-                   externas o plataformas) sin alterar su funcionalidad original.                              | un nuevo navegador o SO.  |                   |                                                       
-|                 
+                   externas o plataformas) sin alterar su funcionalidad original.                               un nuevo navegador o SO.                                                                              
+                
 | **Perfectivo** | Mejora el software existente agregando funcionalidades, optimizando rendimiento o mejorando | Añadir un módulo de       |                   |
 |                |  usabilidad.                                                                                | reportesavanzados o       |        50%        |
 |                |                                                                                             | refactorizar para mayor   |                   |
