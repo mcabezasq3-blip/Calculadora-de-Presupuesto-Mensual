@@ -65,7 +65,7 @@ Aplicación web y móvil para **gestión de finanzas personales**. Permite regis
 > **Recomendación:**  
 > - Adoptar **Git + GitFlow** desde el inicio del mantenimiento.  
 > - Ramas: `main` (producción), `develop` (integración), `feature/*`, `hotfix/*`.  
-> - **Pruebas automatizadas** en CI/CD (GitHub Actions).  
+> - **Pruebas automatizadas** en CI/CD.  
 > - **Tags semánticos** (v1.0.0, v1.1.0-patch-persistencia).  
 >  
 > **Beneficio:** Trazabilidad de cambios, despliegues seguros y colaboración efectiva en equipos multiusuario.
