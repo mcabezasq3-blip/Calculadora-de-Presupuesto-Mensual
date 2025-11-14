@@ -2,7 +2,7 @@
 Proyecto Final
  
 **Proyecto Integrado – Introducción a la Ingeniería en Software**
-
+ 
 ---
 
 ## Descripción del Caso  
