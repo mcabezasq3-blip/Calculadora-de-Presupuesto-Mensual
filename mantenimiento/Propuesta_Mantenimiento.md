@@ -4,22 +4,12 @@
 
 Los tipos de mantenimiento se clasifican comúnmente según la norma **ISO/IEC 14764**, adoptada por **Sommerville** y **Pressman**. Cada tipo aborda necesidades específicas:
 
-| Tipo           |                                    Descripción                                              |        Ejemplo            | Proporción típica |
-|----------------|---------------------------------------------------------------------------------------------|---------------------------|-------------------|
-| **Correctivo** | Corrige errores o fallos detectados en el software operativo que afectan su funcionalidad o | Arreglar un crash causado |        20%        |
-|                | rendimiento. Se realiza reactivamente ante reportes de usuarios.                            | por un cálculo erróneo.   |                   |
-|                |                                                                                             |                           |                   |
-| **Adaptativo** | Modifica el software para adaptarlo a cambios en el entorno (hardware, SO, regulaciones     | Ajustar compatibilidad con|        25%        |
-                   externas o plataformas) sin alterar su funcionalidad original.                               un nuevo navegador o SO.                                                                              
-                
-| **Perfectivo** | Mejora el software existente agregando funcionalidades, optimizando rendimiento o mejorando | Añadir un módulo de       |                   |
-|                |  usabilidad.                                                                                | reportesavanzados o       |        50%        |
-|                |                                                                                             | refactorizar para mayor   |                   |
-|                |                                                                                             | eficiencia.               |                   |
-|                |                                                                                              
-| **Preventivo** | Reduce complejidad, mejora documentación o refactoriza para evitar problemas futuros.       | Reestructurar código      |                   |
-|                |                                                                                             | legado antes de futuras   |       5%          |
-|                |                                                                                             | actualizaciones.          |                   |
+| Tipo        | Descripción | Ejemplo | Proporción típica |
+|------------|-------------|---------|-------------------|
+| **Correctivo** | Corrige errores o fallos detectados en el software operativo que afectan su funcionalidad o rendimiento. Se realiza reactivamente ante reportes de usuarios. | Arreglar un crash causado por un cálculo erróneo. | 20% |
+| **Adaptativo** | Modifica el software para adaptarlo a cambios en el entorno (hardware, SO, regulaciones externas o plataformas) sin alterar su funcionalidad original. | Ajustar compatibilidad con un nuevo navegador o SO. | 25% |
+| **Perfectivo** | Mejora el software existente agregando funcionalidades, optimizando rendimiento o mejorando usabilidad. | Añadir un módulo de reportes avanzados o refactorizar para mayor eficiencia. | 50% |
+| **Preventivo** | Reduce complejidad, mejora documentación o refactoriza para evitar problemas futuros. | Reestructurar código legado antes de futuras actualizaciones. | 5% |
 
 ---
 
