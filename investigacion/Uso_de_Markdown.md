@@ -44,12 +44,12 @@ markdown
 
 ## Enlaces útiles
 
-- [Documentación oficial](https://docs.ejemplo.com)
-- [Repositorio en GitHub](https://github.com/usuario/proyecto)
+- [Documentación oficial](https://github.com)
+- [Repositorio en GitHub](https://github.com/topics/repositorios)
 - [Issue #42: Error en login](https://github.com/usuario/proyecto/issues/42)
 
 ## Imagen de arquitectura
 
-![Diagrama de arquitectura del sistema](./assets/arquitectura.png)
+![Diagrama de arquitectura del sistema](https://optim.tildacdn.net/tild3234-3066-4234-b638-306537326132/-/resize/760x/-/format/webp/markdown.png.webp)
 
 > **Nota**: Asegúrate de tener Docker instalado antes de ejecutar `docker-compose up`.
