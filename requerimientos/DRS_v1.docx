@@ -1,1 +1,31 @@
+# REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES - v1
+## Calculadora de Presupuesto Mensual
 
+**Fecha:** 23/10/2025  
+**Versión:** 1.0  
+**Estado:** Borrador inicial (MVP)
+
+---
+
+### 1. REQUERIMIENTOS FUNCIONALES
+
+| ID | Descripción |
+|----|-----------|
+| RF-01 | Registro de ingresos y gastos con monto, descripción, categoría (predefinida) y fecha. |
+| RF-02 | Cálculo automático del balance mensual en tiempo real. |
+| RF-03 | Edición y eliminación de transacciones registradas. |
+
+---
+
+### 2. REQUERIMIENTOS NO FUNCIONALES
+
+| ID | Descripción |
+|----|-----------|
+| RNF-01 | Interfaz intuitiva: usuario nuevo registra transacción en <2 min. |
+| RNF-02 | Actualización del balance en <1 segundo. |
+
+---
+
+### 3. CRITERIOS DE ACEPTACIÓN (simplificados)
+- Se puede registrar un ingreso/gasto y ver el balance actualizado.
+- Editar o eliminar una transacción actualiza el balance.
